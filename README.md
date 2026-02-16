@@ -1,60 +1,11 @@
-# I'm Brice Ali Byiringiro
+Hi, I'm Brice 
 
-Welcome to my GitHub profile!  
-I'm a **junior developer** from **Rwanda**, currently living in **Japan**. I love learning new technologies, building useful tools, and working on projects that solve real-world problems.
+I'm a junior developer based in Japan.
 
----
+### Tech Stack
+- JavaScript
+- Python
+- PHP
+- Java
 
-## 🌱 About Me
-
-- 🎓 Currently studying Environmental and Social Design Engineering in Japan  
-- 🌍 Originally from Rwanda 🇷🇼  
-- 💻 Learning and building with **JavaScript**, **Python** **SQL**, **Mongodb**, and **GitHub**   
-- 🌟 Open to collaboration, especially on meaningful open-source projects  
-- 🧠 Always learning, always improving  
-
----
-
-## 🚀 Current Project: [NotesApp](https://github.com/Brice-art/NotesApp-frontend)
-
-> A simple and efficient tool to help people organize their ideas.  
-> Built using JavaScript(React for frontend, Node.js for backend, and Mongodb for database) and focused on ease of use and productivity.
-
-This project is helping me sharpen my full-stack development skills and improve user experience design. Check it out, leave a ⭐ if you like it, and feel free to suggest improvements!
-
----
-
-## 🛠️ Technologies I Use
-
-- **Languages**: JavaScript, Python, HTML, CSS, React.js, MongoDB, PostgreSQL, Node.js
-- **Tools & Platforms**: GitHub, Vercel, Railway, VS Code, Postman
-- **Learning Next**: Nextjs, Django 
-
----
-
-## ⚽ Outside of Tech
-
-When I’m not coding, you’ll probably find me:
-
-- Playing 🏀 **basketball** or ⚽ **soccer**  
-- Competing in card games with friends  
-- Listening to music or watching tech videos for inspiration  
-
----
-
-## 🤝 Let’s Connect
-
-I’m always happy to meet new people, learn from others, and collaborate on interesting ideas. Whether you’re a fellow developer, a student, or just curious about what I’m working on, feel free to reach out!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/brice-ali-byiringiro-ab1182254/)
-- 📬 You can also open an issue or pull request on any of my projects!
-
----
-
-## 💡 Let's Build Something Amazing Together
-
-Thanks for stopping by my profile!  
-I’m excited about the journey ahead and looking forward to learning, sharing, and building with the tech community here on GitHub.
-
-> **“Stay curious. Keep building. Help others.”**
-
+Collaborations and interesting ideas are welcome.  
