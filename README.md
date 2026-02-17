@@ -8,4 +8,4 @@ I'm a junior developer based in Japan.
 - PHP
 - Java
 
-Collaborations and interesting ideas are welcome.  
+Collaborations and ideas are welcome.  
